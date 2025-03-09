@@ -30,7 +30,7 @@ macOS için geliştirilen bu uygulama, seçtiğiniz klasördeki dosyaları uzant
 
 ### DMG ile Kurulum
 
-1. [Releases](https://github.com/yourusername/klasor-duzenleyici/releases) sayfasından en son sürümü indirin.
+1. [Releases](https://github.com/ysftsdln0/klasor-duzenleyici/releases) sayfasından en son sürümü indirin.
 2. İndirilen `.dmg` dosyasını açın.
 3. Uygulamayı Uygulamalar klasörüne sürükleyin.
 4. Uygulamalar klasöründen "Klasör Düzenleyici" uygulamasını başlatın.
@@ -39,7 +39,7 @@ macOS için geliştirilen bu uygulama, seçtiğiniz klasördeki dosyaları uzant
 
 1. Bu projeyi bilgisayarınıza klonlayın:
    ```bash
-   git clone https://github.com/yourusername/klasor-duzenleyici.git
+   git clone https://github.com/ysftsdln0/klasor-duzenleyici.git
    cd klasor-duzenleyici
    ```
 
@@ -94,6 +94,6 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 
 ## İletişim
 
-Yusuf Efe Taşdelen - [@yourusername](https://twitter.com/yourusername) - email@example.com
+Yusuf Efe Taşdelen - [@ysftsdln](https://twitter.com/ysftsdln) - efe@tasdelen.net
 
-Proje Linki: [https://github.com/yourusername/klasor-duzenleyici](https://github.com/yourusername/klasor-duzenleyici) 
+Proje Linki: [https://github.com/ysftsdln0/klasor-duzenleyici](https://github.com/ysftsdln0/klasor-duzenleyici) 
