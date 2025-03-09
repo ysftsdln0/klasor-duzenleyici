@@ -94,6 +94,6 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 
 ## İletişim
 
-Yusuf Efe Taşdelen - [@yourusername](https://twitter.com/yourusername) - email@example.com
+Yusuf Efe Taşdelen - [@ysftsdln](https://twitter.com/ysftsdln) - efe@tasdelen.net
 
-Proje Linki: [https://github.com/yourusername/klasor-duzenleyici](https://github.com/yourusername/klasor-duzenleyici) 
+Proje Linki: [https://github.com/ysftsdln0/klasor-duzenleyici](https://github.com/ysftsdln0/klasor-duzenleyici) 
