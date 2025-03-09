@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>tr</string>
+    <key>CFBundleDisplayName</key>
+    <string>Klasör Düzenleyici</string>
+    <key>CFBundleExecutable</key>
+    <string>KlasorDuzenleyici</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.yusufefetasdelen.klasorduzenleyici</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>KlasorDuzenleyici</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.utilities</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>11.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright © 2025 Yusuf Efe Taşdelen. Tüm hakları saklıdır.</string>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+    <key>NSFileProviderDomainUsageDescription</key>
+    <string>Klasör Düzenleyici, dosyalarınızı uzantılarına göre düzenlemek için dosya sisteminize erişim izni gerektirir.</string>
+    <key>NSOpenPanelUsageDescription</key>
+    <string>Klasör Düzenleyici, düzenlemek istediğiniz klasörü seçmeniz için dosya seçim penceresini kullanır.</string>
+    <key>NSDocumentsFolderUsageDescription</key>
+    <string>Klasör Düzenleyici, dosyalarınızı uzantılarına göre düzenlemek için belgeler klasörünüze erişim izni gerektirir.</string>
+    <key>NSDownloadsFolderUsageDescription</key>
+    <string>Klasör Düzenleyici, dosyalarınızı uzantılarına göre düzenlemek için indirmeler klasörünüze erişim izni gerektirir.</string>
+    <key>NSDesktopFolderUsageDescription</key>
+    <string>Klasör Düzenleyici, dosyalarınızı uzantılarına göre düzenlemek için masaüstü klasörünüze erişim izni gerektirir.</string>
+</dict>
+</plist> 
