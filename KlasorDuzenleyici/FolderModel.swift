@@ -224,4 +224,13 @@ class FolderModel: ObservableObject {
             }
         }
     }
+    
+    func clearSelectedFolder() {
+        DispatchQueue.main.async {
+            self.selectedFolderURL = nil
+            self.selectedFolderName = "Klasör seçilmedi"
+            self.statusMessage = "Klasör seçilmedi"
+            print("Seçili klasör temizlendi")
+        }
+    }
 } 
